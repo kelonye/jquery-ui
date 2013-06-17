@@ -1,0 +1,9 @@
+{
+  "name": "jquery-ui",
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
