@@ -4,6 +4,7 @@
     "component/jquery": "*"
   },
   "scripts": [
-    "index.js"
+    "index.js",
+    "jqueryui.js"
   ]
 }
